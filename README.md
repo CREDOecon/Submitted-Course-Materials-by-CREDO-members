@@ -5,7 +5,8 @@
 
 ---
 
-### This is a public repository where CREDO members post open-source materials for courses, seminars and other projects involving economics and Catholic Social Teaching.
+### This is a repository where CREDO members post open-source materials for courses, seminars and other projects involving economics, Catholic Social Teaching, theology, or ethics.
+
 
 The following courses, including brief descriptions, are listed below. Further materials are provided within each folder. Please direct any questions towards the author of the course. If you are a CREDO member and would like to contribute materials to this repository, please submit materials to rmannino@nd.edu. Submissions are voluntary and you do not have to share all materials related to the course.
 
